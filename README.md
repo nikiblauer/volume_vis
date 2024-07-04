@@ -18,6 +18,12 @@ You can start adding a new layer using the same procedure as mentioned above.
 It is also possible to delete the most recent layer by clicking on the Delete layer button.
 This deletes the last layer you persisted. 
 
+
+**Human Head: (skull: white, full opaque; skin: yellow, semi transparent)**
+<br>
 ![Screenshot 2024-07-04 201048](https://github.com/nikiblauer/volume_vis/assets/39680062/560348d3-aac5-460d-b7ff-f73ff167687a)
 
+
+**Beetle:**
+<br>
 ![Screenshot 2024-07-04 201207](https://github.com/nikiblauer/volume_vis/assets/39680062/9e2009e8-c79a-4f2c-8ec8-7cc71d340573)
