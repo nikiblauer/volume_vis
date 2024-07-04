@@ -1,6 +1,6 @@
 # Volume Visualization
 With this Three.js application you can visualize all sorts of volumetric data from MRT or CT scans.
-The visualisation is done using a technique called First-hit rendering to accurately visualize the measured medical data.  
+The visualisation is done using a technique called first-hit rendering and blinn-phong shading to accurately visualize the measured medical data.  
 The editor allows to visualize this data in realtime, filtering out different layers (bones, skin, ...), coloring them to make them more visible, and saving.
 In addition to the editor allows a full 360 degree orbital camera as well as zooming to get a more detailed look at the data.
 
@@ -19,7 +19,7 @@ It is also possible to delete the most recent layer by clicking on the Delete la
 This deletes the last layer you persisted. 
 
 
-**Human Head: (skull: white, full opaque; skin: yellow, semi transparent)**
+**Human Head:** (skull: white, full opaque; skin: yellow, semi transparent)
 <br>
 ![Screenshot 2024-07-04 201048](https://github.com/nikiblauer/volume_vis/assets/39680062/560348d3-aac5-460d-b7ff-f73ff167687a)
 
