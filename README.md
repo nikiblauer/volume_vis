@@ -1,5 +1,5 @@
 # Volume Visualization
-With this Three.js application you can visualize all sorts of volumetric data from MRT or CT scans.
+With this Three.js application you can visualize all sorts of volumetric data from MRI or CT scans.
 The visualisation is done using a technique called first-hit rendering and blinn-phong shading to accurately visualize the measured medical data.  
 The editor allows to visualize this data in realtime, filtering out different layers (bones, skin, ...), coloring them to make them more visible, and saving.
 In addition to the editor allows a full 360 degree orbital camera as well as zooming to get a more detailed look at the data.
